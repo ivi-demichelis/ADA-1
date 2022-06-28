@@ -1,0 +1,10 @@
+.flex-container{
+    display: flex;
+    background-color: rgb(225, 89, 238);
+    height: 100px;
+}
+.flex-container div{
+  background-color: rgb(79, 79, 236);
+  margin: 5px;
+  width: 40px;
+}

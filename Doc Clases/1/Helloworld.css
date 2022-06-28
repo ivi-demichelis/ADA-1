@@ -1,0 +1,19 @@
+body {
+    background-image: url("imagenes/fondo3.jpg");
+    background-position: top center;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(5, 199, 15);
+    font-family: 'Merienda', cursive;
+}
+
+.color {
+    color: coral;
+}
+
+#cambio {
+    color: brown;
+}
